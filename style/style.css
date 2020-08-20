@@ -1,0 +1,9 @@
+body {background: #102238;color: #fff;font-family: Arial, Helvetica, sans-serif;}
+.block {
+    background: darkgreen;
+    color: white;
+}
+p {
+    font-size: 16px;
+    color: darkorange;
+}
